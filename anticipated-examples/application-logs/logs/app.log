@@ -1,0 +1,44 @@
+2026-09-07 14:27:19 | INFO     | InventoryApp:main:103 - === Starting Inventory Application ===
+2026-09-07 14:27:19 | INFO     | InventoryApp:__init__:54 - InventoryService initialized with 2 items.
+2026-09-07 14:27:19 | INFO     | InventoryApp:restock:62 - Restocked 'bananas' (+20). Current stock: 20
+2026-09-07 14:27:19 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=apples, quantity=5
+2026-09-07 14:27:19 | INFO     | InventoryApp:purchase:81 - Purchased 5 'apples'. Remaining stock: 10
+2026-09-07 14:27:19 | WARNING  | InventoryApp:restock:58 - Invalid restock attempt: oranges with quantity -2
+2026-09-07 14:27:19 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=grapes, quantity=2
+2026-09-07 14:27:19 | ERROR    | InventoryApp:purchase:68 - Purchase failed: Item 'grapes' does not exist in inventory.
+2026-09-07 14:27:19 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=oranges, quantity=10
+2026-09-07 14:27:19 | WARNING  | InventoryApp:purchase:72 - Purchase declined: Insufficient stock for 'oranges' (Requested: 10, Available: 4)
+2026-09-07 14:27:19 | ERROR    | InventoryApp:calculate_discount:98 - Failed to compute discount: Discount 150.0% is out of bounds [0-100]
+Traceback (most recent call last):
+  File "/Users/andrewhudsonmd/PycharmProjects/PythonProject/lind-pair-programming-interview/anticipated-examples/application-logs/app.py", line 91, in calculate_discount
+    raise ValueError(f"Discount {discount_percent}% is out of bounds [0-100]")
+ValueError: Discount 150.0% is out of bounds [0-100]
+2026-09-07 14:27:19 | INFO     | InventoryApp:main:119 - === Application run finished ===
+2026-09-07 14:29:08 | INFO     | InventoryApp:main:103 - === Starting Inventory Application ===
+2026-09-07 14:29:08 | INFO     | InventoryApp:__init__:54 - InventoryService initialized with 2 items.
+2026-09-07 14:29:08 | INFO     | InventoryApp:restock:62 - Restocked 'bananas' (+20). Current stock: 20
+2026-09-07 14:29:08 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=apples, quantity=5
+2026-09-07 14:29:08 | INFO     | InventoryApp:purchase:81 - Purchased 5 'apples'. Remaining stock: 10
+2026-09-07 14:29:08 | WARNING  | InventoryApp:restock:58 - Invalid restock attempt: oranges with quantity -2
+2026-09-07 14:29:08 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=grapes, quantity=2
+2026-09-07 14:29:08 | ERROR    | InventoryApp:purchase:68 - Purchase failed: Item 'grapes' does not exist in inventory.
+2026-09-07 14:29:08 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=oranges, quantity=10
+2026-09-07 14:29:08 | WARNING  | InventoryApp:purchase:72 - Purchase declined: Insufficient stock for 'oranges' (Requested: 10, Available: 4)
+2026-09-07 14:29:08 | ERROR    | InventoryApp:calculate_discount:98 - Failed to compute discount: Discount 150.0% is out of bounds [0-100]
+Traceback (most recent call last):
+  File "/Users/andrewhudsonmd/PycharmProjects/PythonProject/lind-pair-programming-interview/anticipated-examples/application-logs/app.py", line 91, in calculate_discount
+    raise ValueError(f"Discount {discount_percent}% is out of bounds [0-100]")
+ValueError: Discount 150.0% is out of bounds [0-100]
+2026-09-07 14:29:08 | INFO     | InventoryApp:main:119 - === Application run finished ===
+2026-09-07 14:30:52 | INFO     | InventoryApp:main:99 - === Starting Inventory Application ===
+2026-09-07 14:30:52 | INFO     | InventoryApp:__init__:54 - InventoryService initialized with 2 items.
+2026-09-07 14:30:52 | INFO     | InventoryApp:restock:62 - Restocked 'bananas' (+20). Current stock: 20
+2026-09-07 14:30:52 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=apples, quantity=5
+2026-09-07 14:30:52 | INFO     | InventoryApp:purchase:81 - Purchased 5 'apples'. Remaining stock: 10
+2026-09-07 14:30:52 | WARNING  | InventoryApp:restock:58 - Invalid restock attempt: oranges with quantity -2
+2026-09-07 14:30:52 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=grapes, quantity=2
+2026-09-07 14:30:52 | ERROR    | InventoryApp:purchase:68 - Purchase failed: Item 'grapes' does not exist in inventory.
+2026-09-07 14:30:52 | DEBUG    | InventoryApp:purchase:65 - Purchase request received: item=oranges, quantity=10
+2026-09-07 14:30:52 | WARNING  | InventoryApp:purchase:72 - Purchase declined: Insufficient stock for 'oranges' (Requested: 10, Available: 4)
+2026-09-07 14:30:52 | WARNING  | InventoryApp:calculate_discount:90 - Discount 150.0% is out of bounds [0-100]. Calculation aborted.
+2026-09-07 14:30:52 | INFO     | InventoryApp:main:115 - === Application run finished ===

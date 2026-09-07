@@ -1,0 +1,3 @@
+transaction_id,customer_id,customer_name,region,clean_amount,date,processed_at
+TX101,C101,Alice Smith,North America,125.5,2026-03-01,2026-09-07T21:38:48.829792
+TX102,C102,Bob Jones,Europe,45.0,2026-03-01,2026-09-07T21:38:48.829792

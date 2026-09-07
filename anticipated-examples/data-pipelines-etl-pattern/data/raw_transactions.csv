@@ -1,0 +1,7 @@
+transaction_id,customer_id,raw_amount,status,transaction_time
+TX101,C101,$125.50,completed,2026-03-01 09:15:00
+TX102,C102,$45.00,completed,2026-03-01 10:45:00
+TX103,C103,bad_data,completed,2026-03-02 11:20:00
+TX104,C101,$310.00,refunded,2026-03-02 14:00:00
+TX105,C999,$89.99,completed,2026-03-03 16:30:00
+TX106,,$15.00,completed,2026-03-03 18:00:00
