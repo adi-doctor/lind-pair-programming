@@ -228,3 +228,14 @@ where e.salary >= 72000.00            -- 1. pre-filter rows first
 group by d.dept_id, d.dept_name        -- 2. group surviving records
 having avg(e.salary) > 75000.00        -- 3. filter summary metrics
 order by average_salary desc;          -- 4. sort results
+
+drop table if exists new_employees;
+create table if not exists new_employees (
+    id int auto_increment primary key,
+    name varchar(100) null,
+    email varchar(150) null,
+    salary decimal(10, 2) null,
+    hire_date date null
+);
+
+select * from new_employees;
