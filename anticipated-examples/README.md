@@ -19,3 +19,18 @@ git push -u origin main
 git remote add origin https://github.com/adi-doctor/lind-pair-programming.git
 git branch -M main
 git push -u origin main
+
+
+
+Test authentication
+-------------------
+ssh -T git@github.com
+git remote -v
+Change to SSH URL
+git remote set-url origin git@github.com:USERNAME/REPO.git
+
+(.venv) andrewhudsonmd@Andrews-Mac-Studio lind-pair-programming-interview % git remote set-url origin git@github.com:adi-doctor/https://github.com/adi-doctor/lind-pair-programming.git
+(.venv) andrewhudsonmd@Andrews-Mac-Studio lind-pair-programming-interview % git push -u origin main
+fatal: protocol 'git@github.com:adi-doctor/https' is not supported
+(.venv) andrewhudsonmd@Andrews-Mac-Studio lind-pair-programming-interview % git remote set-url origin git@github.com:adi-doctor/lind-pair-programming.git                              
+(.venv) andrewhudsonmd@Andrews-Mac-Studio lind-pair-programming-interview % git push -u origin main 
