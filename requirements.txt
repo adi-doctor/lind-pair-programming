@@ -1,0 +1,9 @@
+fastapi~=0.141.1
+pydantic~=2.13.5
+GitPython~=3.1.62
+pandas~=3.0.5
+hl7~=0.4.5
+tabulate~=0.10.0
+tqdm~=4.70.0
+requests~=2.34.2
+Calculator~=1.1.0
