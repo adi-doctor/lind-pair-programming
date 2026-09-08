@@ -1,0 +1,9 @@
+Visit ID: VN-111
+Patient: P-004 (Theo Okafor)
+Visit date: 2024-04-25
+
+Patient returns for cardiac workup as part of new hypertension
+management. Transthoracic echocardiogram performed today. Study
+shows normal left ventricular size and function with no significant
+valvular disease. No evidence of end-organ damage. Reassured
+patient. Continue current medication.

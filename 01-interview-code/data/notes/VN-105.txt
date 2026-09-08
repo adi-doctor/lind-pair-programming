@@ -1,0 +1,9 @@
+Visit ID: VN-105
+Patient: P-002 (Marcus Vega)
+Visit date: 2024-03-10
+
+Operative note. Patient underwent right total knee replacement
+today without complication. Estimated blood loss minimal. Implant
+placement confirmed intraoperatively. Patient stable in recovery,
+tolerating clear liquids. Standard post-operative protocol
+initiated. Wound check scheduled for three days from now.

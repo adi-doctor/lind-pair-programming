@@ -1,0 +1,14 @@
+{
+  "VN-101": "{\"events\": [{\"type\": \"diagnosis\", \"name\": \"type 2 diabetes\", \"date\": \"2024-01-12\"}, {\"type\": \"medication\", \"name\": \"metformin\", \"date\": \"2024-01-12\"}]}",
+  "VN-102": "{\"events\": [{\"type\": \"diagnosis\", \"name\": \"osteoarthritis of the right knee\", \"date\": \"2024-01-18\"}]}",
+  "VN-103": "{\"events\": [{\"type\": \"diagnosis\", \"name\": \"asthma\", \"date\": \"2024-02-01\"}, {\"type\": \"medication\", \"name\": \"albuterol\", \"date\": \"2024-02-01\"}]}",
+  "VN-104": "{\"events\": [{\"type\": \"medication\", \"name\": \"metformin\", \"date\": \"2024-01-12\"}]}",
+  "VN-105": "{\"events\": [{\"type\": \"procedure\", \"name\": \"right total knee replacement\", \"date\": \"2024-03-10\"}]}",
+  "VN-106": "{\"events\": [{\"type\": \"procedure\", \"name\": \"spirometry\", \"date\": \"2024-02-28\"}]}",
+  "VN-107": "{\"events\": [{\"type\": \"medication\", \"name\": \"lisinopril\", \"date\": \"2024-04-02\"}]}\n\nNote: I included only clinically significant events from this visit.",
+  "VN-108": "{\"events\": [{\"type\": \"procedure\", \"name\": \"post-operative wound check\", \"date\": \"2024-03-10\"}]}",
+  "VN-109": "{\"events\": [{\"type\": \"diagnosis\", \"name\": \"hypertension\", \"date\": \"2024-04-10\"}, {\"type\": \"medication\", \"name\": \"amlodipine 5 mg\", \"date\": \"2024-04-10\"}]}",
+  "VN-110": "{\"events\": [{\"type\": \"medication\", \"name\": \"prednisone\", \"date\": \"2024-05-14\"}]}",
+  "VN-111": "```json\n{\"events\": [{\"type\": \"procedure\", \"name\": \"echocardiogram\", \"date\": \"2024-04-25\"}]}\n```",
+  "VN-112": "{\"events\": [{\"type\": \"medication\", \"name\": \"amlodipine\", \"date\": \"2024-06-01\"}]}"
+}

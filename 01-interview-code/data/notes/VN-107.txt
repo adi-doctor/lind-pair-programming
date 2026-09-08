@@ -1,0 +1,10 @@
+Visit ID: VN-107
+Patient: P-001 (Dana Whitfield)
+Visit date: 2024-04-02
+
+Three-month follow-up. Repeat A1c is 7.2%, down from 8.1%. Patient
+is pleased with progress. Blood pressure today is 148/92, elevated
+on repeat measurement, consistent with home readings the patient
+has logged. Started lisinopril 10 mg daily for blood pressure.
+Continue metformin at current dose. Recheck blood pressure in four
+weeks.

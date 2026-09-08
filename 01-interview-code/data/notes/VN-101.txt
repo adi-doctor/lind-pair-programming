@@ -1,0 +1,9 @@
+Visit ID: VN-101
+Patient: P-001 (Dana Whitfield)
+Visit date: 2024-01-12
+
+Patient presents with several months of fatigue, increased thirst, and
+frequent urination. Fasting labs drawn last week show A1c of 8.1%.
+Diagnosed with type 2 diabetes today. Discussed diet and exercise
+changes at length. Started metformin 500 mg twice daily. Will
+recheck A1c in three months.

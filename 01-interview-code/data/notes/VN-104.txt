@@ -1,0 +1,8 @@
+Visit ID: VN-104
+Patient: P-001 (Dana Whitfield)
+Visit date: 2024-02-20
+
+Follow-up visit. Patient is tolerating the metformin 500 mg twice
+daily started on 2024-01-12 without GI side effects. Reports better
+energy. Home glucose readings trending down. No medication changes
+today. Continue current regimen and recheck A1c as planned.

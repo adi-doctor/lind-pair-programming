@@ -300,5 +300,5 @@ if __name__ == '__main__':
 
         print('Group By Having:')
         DataManager = get_group_by_having()
-        print(tabulate(DataManager, headers='keys', tablefmt='grid'))
+        print(tabulate(DataManager, headers='keys', tablefmt='fancy_grid'))
 

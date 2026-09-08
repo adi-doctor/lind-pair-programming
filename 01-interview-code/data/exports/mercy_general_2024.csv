@@ -1,0 +1,11 @@
+mrn,patient_name,event_type,description,event_date,source_system
+MG-40213,Marcus Vega,PROC,Pre-operative clearance exam,03/02/2024,MercyEHR v11
+MG-40213,Marcus Vega,MED,Celecoxib 200 mg daily,01/20/2024,MercyEHR v11
+MG-77840,Alina Petrov,DX,Hypothyroidism,02/11/2024,MercyEHR v11
+MG-77840,Alina Petrov,MED,Levothyroxine 50 mcg daily,02/11/2024,MercyEHR v11
+MG-77840,Alina Petrov,PROC,Thyroid ultrasound,03/05/2024,MercyEHR v11
+MG-51126,Theo Okafor,MED,Atorvastatin 20 mg daily,05/09/2024,MercyEHR v11
+MG-51126,Theo Okafor,DX,Hyperlipidemia,05/09/2024,MercyEHR v11
+MG-88452,Rosa Delgado,DX,Migraine without aura,04/17/2024,MercyEHR v11
+MG-88452,Rosa Delgado,MED,Sumatriptan 50 mg as needed,04/17/2024,MercyEHR v11
+MG-88452,Rosa Delgado,PROC,Brain MRI,05/22/2024,MercyEHR v11

@@ -1,0 +1,9 @@
+Visit ID: VN-103
+Patient: P-003 (Priya Raman)
+Visit date: 2024-02-01
+
+Patient presents with episodes of wheezing and chest tightness,
+worse with exercise and cold air. Spirometry ordered. Based on
+history and exam, diagnosed with asthma today. Prescribed an
+albuterol inhaler, two puffs as needed. Reviewed inhaler technique
+in clinic. Follow up in one month.

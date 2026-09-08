@@ -1,0 +1,10 @@
+Visit ID: VN-102
+Patient: P-002 (Marcus Vega)
+Visit date: 2024-01-18
+
+Patient reports worsening right knee pain over the past two years,
+now interfering with daily walks. Exam shows crepitus and reduced
+range of motion. X-ray from last week shows joint space narrowing.
+Diagnosed with osteoarthritis of the right knee. Reviewed options
+including physical therapy and surgical referral. Patient will
+consider a surgical consult.

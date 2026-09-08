@@ -1,0 +1,9 @@
+Visit ID: VN-106
+Patient: P-003 (Priya Raman)
+Visit date: 2024-02-28
+
+Patient returns for pulmonary function testing. Spirometry
+performed today; results show mild obstruction with significant
+bronchodilator response, consistent with the asthma diagnosis.
+Patient reports the albuterol inhaler is helping with exercise
+symptoms. Continue current management.

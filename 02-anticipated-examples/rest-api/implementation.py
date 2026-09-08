@@ -1,7 +1,7 @@
 import json
 import requests
 
-## uvicorn main:app --reload
+# uvicorn main:app --reload
 # Control C to stop the server.
 
 # 1. Target API endpoint (returns sample JSON data)

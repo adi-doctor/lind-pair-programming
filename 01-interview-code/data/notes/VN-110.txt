@@ -1,0 +1,10 @@
+Visit ID: VN-110
+Patient: P-003 (Priya Raman)
+Visit date: 2024-05-14
+
+Urgent visit for asthma exacerbation after a respiratory illness.
+Increased wheezing and nighttime symptoms over the past four days,
+with heavier reliance on the albuterol inhaler. Lungs with diffuse
+expiratory wheezes. Started a five-day burst of prednisone 40 mg
+daily. Reviewed the asthma action plan. Return immediately if
+symptoms worsen.

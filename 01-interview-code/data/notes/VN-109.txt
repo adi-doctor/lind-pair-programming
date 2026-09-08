@@ -1,0 +1,9 @@
+Visit ID: VN-109
+Patient: P-004 (Theo Okafor)
+Visit date: 2024-04-10
+
+New patient visit. Blood pressure 156/96 today, with similar
+readings documented at two prior urgent care visits. Diagnosed
+with hypertension. Discussed lifestyle modification including
+sodium reduction and regular exercise. Started amlodipine 5 mg
+daily. Baseline labs ordered. Follow up in two weeks.

@@ -1,0 +1,39 @@
+{
+  "VN-101": [
+    {"type": "diagnosis", "name": "type 2 diabetes", "date": "2024-01-12"},
+    {"type": "medication", "name": "metformin", "date": "2024-01-12"}
+  ],
+  "VN-102": [
+    {"type": "diagnosis", "name": "osteoarthritis of the right knee", "date": "2024-01-18"}
+  ],
+  "VN-103": [
+    {"type": "diagnosis", "name": "asthma", "date": "2024-02-01"},
+    {"type": "medication", "name": "albuterol", "date": "2024-02-01"}
+  ],
+  "VN-104": [],
+  "VN-105": [
+    {"type": "procedure", "name": "right total knee replacement", "date": "2024-03-10"}
+  ],
+  "VN-106": [
+    {"type": "procedure", "name": "spirometry", "date": "2024-02-28"}
+  ],
+  "VN-107": [
+    {"type": "medication", "name": "lisinopril", "date": "2024-04-02"}
+  ],
+  "VN-108": [
+    {"type": "procedure", "name": "post-operative wound check", "date": "2024-03-13"}
+  ],
+  "VN-109": [
+    {"type": "diagnosis", "name": "hypertension", "date": "2024-04-10"},
+    {"type": "medication", "name": "amlodipine", "date": "2024-04-10"}
+  ],
+  "VN-110": [
+    {"type": "medication", "name": "prednisone", "date": "2024-05-14"}
+  ],
+  "VN-111": [
+    {"type": "procedure", "name": "echocardiogram", "date": "2024-04-25"}
+  ],
+  "VN-112": [
+    {"type": "medication", "name": "amlodipine", "date": "2024-06-01"}
+  ]
+}
