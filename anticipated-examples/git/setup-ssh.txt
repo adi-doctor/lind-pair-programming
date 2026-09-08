@@ -1,0 +1,33 @@
+SSH Key — Best for Long-Term, Automated Git Operations
+
+SSH keys let you push and pull securely without entering credentials repeatedly.1.Generate a new SSH key:Run the key generation tool using the email associated with your GitHub account:
+
+Bash  ssh-keygen -t ed25519 -C "your_email@example.com"
+
+Press Enter to accept the default file location, then optionally provide a passphrase.
+
+2.Start the SSH agent and add the key:
+
+Start the background agent and register your newly generated private key:
+Bash  eval "$(ssh-agent -s)"
+  ssh-add ~/.ssh/id_ed25519
+
+3.Copy the public key:
+
+Print and copy the entire contents of your public key file:
+
+macOS: pbcopy < ~/.ssh/id_ed25519.pub
+Linux: cat ~/.ssh/id_ed25519.pub
+Windows (PowerShell): Get-Content ~/.ssh/id_ed25519.pub | Set-Clipboard
+
+4.Add the key to GitHub:
+
+Go to github.com -> Click your profile photo -> Settings.
+
+In the sidebar, select SSH and GPG keys.
+
+Click New SSH key, enter a descriptive title (e.g., "Work Laptop"), paste the key into the Key field, and click Add SSH key.
+
+5.Verify the connection:Test your connection from the terminal:
+Bash  ssh -T git@github.com
+You should see: Hi <username>! You've successfully authenticated...
