@@ -34,3 +34,6 @@ git remote set-url origin git@github.com:USERNAME/REPO.git
 fatal: protocol 'git@github.com:adi-doctor/https' is not supported
 (.venv) andrewhudsonmd@Andrews-Mac-Studio lind-pair-programming-interview % git remote set-url origin git@github.com:adi-doctor/lind-pair-programming.git                              
 (.venv) andrewhudsonmd@Andrews-Mac-Studio lind-pair-programming-interview % git push -u origin main 
+
+
+git push -u origin main
